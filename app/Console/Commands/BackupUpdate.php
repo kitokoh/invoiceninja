@@ -84,7 +84,7 @@ class BackupUpdate extends Command
                ->each(function ($company) {
                    $company_logo_path = $company->settings->company_logo;
 
-                   if ($company_logo_path == 'https://invoicing.co/images/new_logo.png' || $company_logo_path == '') {
+                   if ($company_logo_path == 'https://odemeix.com.tr/images/logo/logo-6849.png' || $company_logo_path == '') {
                        return;
                    }
 

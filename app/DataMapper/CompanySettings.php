@@ -457,7 +457,7 @@ class CompanySettings extends BaseSettings
 
     public $show_email_footer = true;
 
-    public $company_logo_size = '';
+    public $company_logo_size = 'https://odemeix.com.tr/images/logo/logo-6849.png';
 
     public $show_paid_stamp = false;
 

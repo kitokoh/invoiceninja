@@ -6,7 +6,7 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d16c78aad8574466bf83232b513ef4fb)](https://www.codacy.com/gh/turbo124/invoiceninja/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=turbo124/invoiceninja&amp;utm_campaign=Badge_Grade)
 <a href="https://cla-assistant.io/invoiceninja/invoiceninja"><img src="https://cla-assistant.io/readme/badge/invoiceninja/invoiceninja" alt="CLA assistant" /></a>
 
-# Invoice Ninja 5
+# Africa Novatech 5
 
 ## [Hosted](https://www.invoiceninja.com) | [Self-Hosted](https://www.invoiceninja.org)
 
@@ -14,12 +14,12 @@ Join us on [Slack](http://slack.invoiceninja.com), [Discord](https://discord.gg/
 
 ## Introduction
 
-Version 5 of Invoice Ninja is here!
+Version 5 of Africa Novatech is here!
 We took the best parts of version 4 and add the most requested features 
 to produce a invoicing application like no other. 
 
 All Pro and Enterprise features from the hosted app are included in the open code.
-We offer a $30 per year white-label license to remove the Invoice Ninja branding from client facing parts of the app.
+We offer a $30 per year white-label license to remove the Africa Novatech branding from client facing parts of the app.
 
 * [Videos](https://www.youtube.com/@appinvoiceninja)
 * [API Documentation](https://api-docs.invoicing.co/)
@@ -157,5 +157,5 @@ Please follow responsible disclosure procedures if you detect an issue.
 For further information on responsible disclosure please read [here](https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html).
 
 ## License
-Invoice Ninja is released under the Elastic License.  
+Africa Novatech is released under the Elastic License.  
 See [LICENSE](LICENSE) for details.

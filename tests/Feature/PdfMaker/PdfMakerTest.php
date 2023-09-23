@@ -1,10 +1,10 @@
 <?php
 /**
- * Invoice Ninja (https://invoiceninja.com).
+ * Africa Novatech (https://invoiceninja.com).
  *
  * @link https://github.com/invoiceninja/invoiceninja source repository
  *
- * @copyright Copyright (c) 2021. Invoice Ninja LLC (https://invoiceninja.com)
+ * @copyright Copyright (c) 2021. Africa Novatech LLC (https://invoiceninja.com)
  *
  * @license https://www.elastic.co/licensing/elastic-license
  */
@@ -103,7 +103,7 @@ class PdfMakerTest extends TestCase
             'variables' => [
                 'labels' => [],
                 'values' => [
-                    '$company.name' => 'Invoice Ninja',
+                    '$company.name' => 'Africa Novatech',
                 ],
             ],
         ];
@@ -115,8 +115,8 @@ class PdfMakerTest extends TestCase
             ->design($design)
             ->build();
 
-        $this->assertStringContainsString('Invoice Ninja', $maker->getCompiledHTML());
-        $this->assertStringContainsString('Invoice Ninja', $maker->getSection('header'));
+        $this->assertStringContainsString('Africa Novatech', $maker->getCompiledHTML());
+        $this->assertStringContainsString('Africa Novatech', $maker->getSection('header'));
     }
 
     public function testElementContentIsGenerated()
@@ -149,7 +149,7 @@ class PdfMakerTest extends TestCase
             'variables' => [
                 'labels' => [],
                 'values' => [
-                    '$company' => 'Invoice Ninja',
+                    '$company' => 'Africa Novatech',
                     '$email' => 'contact@invoiceninja.com',
                     '$country' => 'UK',
                 ],
@@ -255,7 +255,7 @@ class PdfMakerTest extends TestCase
             'variables' => [
                 'labels' => [],
                 'values' => [
-                    '$title' => 'Invoice Ninja',
+                    '$title' => 'Africa Novatech',
                 ],
             ],
         ];

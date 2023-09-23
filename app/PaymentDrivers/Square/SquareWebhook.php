@@ -1,10 +1,10 @@
 <?php
 /**
- * Invoice Ninja (https://invoiceninja.com).
+ * Africa Novatech (https://africanovatech.com).
  *
- * @link https://github.com/invoiceninja/invoiceninja source repository
+ * @link https://africanovatech.com source repository
  *
- * @copyright Copyright (c) 2023. Invoice Ninja LLC (https://invoiceninja.com)
+ * @copyright Copyright (c) 2023. Invoice Novatech LLC (https://africanovatech.com)
  *
  * @license https://www.elastic.co/licensing/elastic-license
  */
@@ -125,7 +125,7 @@ class SquareWebhook implements ShouldQueue
             return $payment;
         }
 
-        /** Handles the edge case where for some reason the payment has not yet been recorded in Invoice Ninja */
+        /** Handles the edge case where for some reason the payment has not yet been recorded in Africa Novatech */
         $apiResponse = $this->square->getPaymentsApi()->getPayment($payment_reference);
 
         nlog("searching square for payment");

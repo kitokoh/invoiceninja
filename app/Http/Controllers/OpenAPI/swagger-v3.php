@@ -4,8 +4,8 @@
  * @OA\OpenApi(
  *     @OA\Info(
  *         version="1.0.30",
- *         title="Invoice Ninja",
- *         description="Invoice Ninja. Self hosted Invoicing lives here. ",
+ *         title="Africa Novatech",
+ *         description="Africa Novatech. Self hosted Invoicing lives here. ",
  *         termsOfService="https://invoiceninja.github.io/docs/legal/terms_of_service/#page-content",
  *         @OA\Contact(
  *             email="contact@invoiceninja.com"

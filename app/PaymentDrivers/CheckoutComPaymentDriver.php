@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Invoice Ninja (https://invoiceninja.com).
+ * Africa Novatech (https://africanovatech.com).
  *
- * @link https://github.com/invoiceninja/invoiceninja source repository
+ * @link https://africanovatech.com source repository
  *
- * @copyright Copyright (c) 2023. Invoice Ninja LLC (https://invoiceninja.com)
+ * @copyright Copyright (c) 2023. Invoice Novatech LLC (https://africanovatech.com)
  *
  * @license https://www.elastic.co/licensing/elastic-license
  */
@@ -332,7 +332,7 @@ class CheckoutComPaymentDriver extends BaseDriver
         $paymentRequest->amount = $this->convertToCheckoutAmount($amount, $this->client->getCurrencyCode());
         $paymentRequest->reference = '#'.$invoice->number.' - '.now();
         $paymentRequest->customer = $this->getCustomer();
-        $paymentRequest->metadata = ['udf1' => 'Invoice Ninja', 'udf2' => $payment_hash->hash];
+        $paymentRequest->metadata = ['udf1' => 'Africa Novatech', 'udf2' => $payment_hash->hash];
         $paymentRequest->currency = $this->client->getCurrencyCode();
 
         $request = new PaymentResponseRequest();

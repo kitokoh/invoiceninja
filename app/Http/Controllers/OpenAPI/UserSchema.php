@@ -10,7 +10,7 @@
  *       @OA\Property(property="phone", type="string", example="555-1233-23232", description="The users phone number"),
  *       @OA\Property(property="signature", type="string", example="Have a nice day!", description="The users sign off signature"),
  *       @OA\Property(property="avatar", type="string", example="https://url.to.your/avatar.png", description="The users avatar"),
- *       @OA\Property(property="accepted_terms_version", type="string", example="1.0.1", description="The version of the invoice ninja terms that has been accepted by the user"),
+ *       @OA\Property(property="accepted_terms_version", type="string", example="1.0.1", description="The version of the Africa Novatech terms that has been accepted by the user"),
  *       @OA\Property(property="oauth_user_id", type="string", example="jkhasdf789as6f675sdf768sdfs", description="The provider id of the oauth entity"),
  *       @OA\Property(property="oauth_provider_id", type="string", example="google", description="The oauth entity id"),
  * )

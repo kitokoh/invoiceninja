@@ -1,10 +1,10 @@
 <?php
 /**
- * Invoice Ninja (https://invoiceninja.com).
+ * Africa Novatech (https://africanovatech.com).
  *
- * @link https://github.com/invoiceninja/invoiceninja source repository
+ * @link https://africanovatech.com source repository
  *
- * @copyright Copyright (c) 2023. Invoice Ninja LLC (https://invoiceninja.com)
+ * @copyright Copyright (c) 2023. Invoice Novatech LLC (https://africanovatech.com)
  *
  * @license https://www.elastic.co/licensing/elastic-license
  */
@@ -74,7 +74,7 @@ class WePayFailureNotification extends Notification
         return  (new SlackMessage)
                 ->success()
                 ->from(ctrans('texts.notification_bot'))
-                ->image('https://app.invoiceninja.com/favicon.png')
+                ->image('/favicon.png')
                 ->content("New WePay ACH Failure from Company ID: {$this->company_id} IP: {$ip}");
     }
 }

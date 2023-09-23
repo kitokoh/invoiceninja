@@ -4081,8 +4081,8 @@ paths:
     post:
       tags:
         - migration
-      summary: "Starts the migration from previous version of Invoice Ninja"
-      description: "Starts the migration from previous version of Invoice Ninja"
+      summary: "Starts the migration from previous version of Africa Novatech"
+      description: "Starts the migration from previous version of Africa Novatech"
       operationId: postStartMigration
       parameters:
         - $ref: "#/components/parameters/X-API-TOKEN"
@@ -6151,8 +6151,8 @@ paths:
     post:
       tags:
         - support
-      summary: "Sends a support message to Invoice Ninja team"
-      description: "Allows a user to send a support message to the Invoice Ninja Team"
+      summary: "Sends a support message to Africa Novatech team"
+      description: "Allows a user to send a support message to the Africa Novatech Team"
       operationId: supportMessage
       parameters:
         - $ref: "#/components/parameters/X-API-TOKEN"

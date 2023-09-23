@@ -1,10 +1,10 @@
 <?php
 /**
- * Invoice Ninja (https://invoiceninja.com).
+ * Africa Novatech (https://africanovatech.com).
  *
- * @link https://github.com/invoiceninja/invoiceninja source repository
+ * @link https://africanovatech.com source repository
  *
- * @copyright Copyright (c) 2023. Invoice Ninja LLC (https://invoiceninja.com)
+ * @copyright Copyright (c) 2023. Invoice Novatech LLC (https://africanovatech.com)
  *
  * @license https://www.elastic.co/licensing/elastic-license
  */
@@ -155,12 +155,12 @@ class ImportController extends Controller
         if (count($data) > 0) {
             $headers = $data[0];
 
-            // Remove Invoice Ninja headers
+            // Remove Africa Novatech headers
             if (count($headers) && count($data) > 4) {
                 $firstCell = $headers[0];
 
                 if (strstr($firstCell, (string) config('ninja.app_name'))) {
-                    array_shift($data); // Invoice Ninja...
+                    array_shift($data); // Africa Novatech...
                     array_shift($data); // <blank line>
                     array_shift($data); // Entity Type Header
                 }

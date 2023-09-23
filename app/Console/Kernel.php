@@ -1,10 +1,10 @@
 <?php
 /**
- * Invoice Ninja (https://invoiceninja.com).
+ * Africa Novatech (https://africanovatech.com).
  *
- * @link https://github.com/invoiceninja/invoiceninja source repository
+ * @link https://africanovatech.com source repository
  *
- * @copyright Copyright (c) 2023. Invoice Ninja LLC (https://invoiceninja.com)
+ * @copyright Copyright (c) 2023. Invoice Novatech LLC (https://africanovatech.com)
  *
  * @license https://www.elastic.co/licensing/elastic-license
  */
@@ -45,7 +45,7 @@ class Kernel extends ConsoleKernel
      */
     protected function schedule(Schedule $schedule)
     {
-        /* Check for the latest version of Invoice Ninja */
+        /* Check for the latest version of Africa Novatech */
         $schedule->job(new VersionCheck)->daily();
 
         /* Returns the number of jobs in the queue */

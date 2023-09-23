@@ -1,10 +1,10 @@
 <?php
 /**
- * Invoice Ninja (https://invoiceninja.com).
+ * Africa Novatech (https://africanovatech.com).
  *
- * @link https://github.com/invoiceninja/invoiceninja source repository
+ * @link https://africanovatech.com source repository
  *
- * @copyright Copyright (c) 2023. Invoice Ninja LLC (https://invoiceninja.com)
+ * @copyright Copyright (c) 2023. Invoice Novatech LLC (https://africanovatech.com)
  *
  * @license https://www.elastic.co/licensing/elastic-license
  */
@@ -29,7 +29,7 @@ class HostedUsers extends Command
      *
      * @var string
      */
-    protected $description = 'Syncs Invoice Ninja Users';
+    protected $description = 'Syncs Africa Novatech Users';
 
     /**
      * Create a new command instance.

@@ -46,7 +46,7 @@
 
         <!-- Title -->
         @auth('contact')
-            <title>@yield('meta_title', '') — {{ auth()->guard('contact')->user()->user->account->isPaid() ? auth()->guard('contact')->user()->company->present()->name() : 'Invoice Ninja' }}</title>
+            <title>@yield('meta_title', '') — {{ auth()->guard('contact')->user()->user->account->isPaid() ? auth()->guard('contact')->user()->company->present()->name() : 'Africa Novatech' }}</title>
         @endauth
 
         @guest

@@ -16,8 +16,8 @@ class SendingController extends Controller
      *      path="/api/v1/support/messages/send",
      *      operationId="supportMessage",
      *      tags={"support"},
-     *      summary="Sends a support message to Invoice Ninja team",
-     *      description="Allows a user to send a support message to the Invoice Ninja Team",
+     *      summary="Sends a support message to Africa Novatech team",
+     *      description="Allows a user to send a support message to the Africa Novatech Team",
      *      @OA\Parameter(ref="#/components/parameters/X-API-TOKEN"),
      *      @OA\Parameter(ref="#/components/parameters/X-Requested-With"),
      *      @OA\RequestBody(

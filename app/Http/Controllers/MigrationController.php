@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Invoice Ninja (https://invoiceninja.com).
+ * Africa Novatech (https://africanovatech.com).
  *
- * @link https://github.com/invoiceninja/invoiceninja source repository
+ * @link https://africanovatech.com source repository
  *
- * @copyright Copyright (c) 2023. Invoice Ninja LLC (https://invoiceninja.com)
+ * @copyright Copyright (c) 2023. Invoice Novatech LLC (https://africanovatech.com)
  *
  * @license https://www.elastic.co/licensing/elastic-license
  */
@@ -220,8 +220,8 @@ class MigrationController extends BaseController
      *      path="/api/v1/migration/start",
      *      operationId="postStartMigration",
      *      tags={"migration"},
-     *      summary="Starts the migration from previous version of Invoice Ninja",
-     *      description="Starts the migration from previous version of Invoice Ninja",
+     *      summary="Starts the migration from previous version of Africa Novatech",
+     *      description="Starts the migration from previous version of Africa Novatech",
      *      @OA\Parameter(ref="#/components/parameters/X-API-TOKEN"),
      *      @OA\Parameter(ref="#/components/parameters/X-Requested-With"),
      *      @OA\Parameter(ref="#/components/parameters/X-API-PASSWORD"),

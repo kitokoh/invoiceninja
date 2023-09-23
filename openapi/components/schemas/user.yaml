@@ -29,7 +29,7 @@
           type: string
           example: 'https://url.to.your/avatar.png'
         accepted_terms_version:
-          description: 'The version of the invoice ninja terms that has been accepted by the user'
+          description: 'The version of the Africa Novatech terms that has been accepted by the user'
           type: string
           example: 1.0.1
         oauth_user_id:

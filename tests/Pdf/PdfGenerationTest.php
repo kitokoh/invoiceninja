@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Invoice Ninja (https://invoiceninja.com).
+ * Africa Novatech (https://invoiceninja.com).
  *
  * @link https://github.com/invoiceninja/invoiceninja source repository
  *
- * @copyright Copyright (c) 2021. Invoice Ninja LLC (https://invoiceninja.com)
+ * @copyright Copyright (c) 2021. Africa Novatech LLC (https://invoiceninja.com)
  *
  * @license https://www.elastic.co/licensing/elastic-license
  */
@@ -40,7 +40,7 @@ class PdfGenerationTest extends TestCase
         }
 
         $pdf = $pdf
-            ->setHtml('<h1>Invoice Ninja</h1>')
+            ->setHtml('<h1>Africa Novatech</h1>')
             ->generate();
 
         $this->assertNotNull($pdf);

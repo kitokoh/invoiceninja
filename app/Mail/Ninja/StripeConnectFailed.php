@@ -1,10 +1,10 @@
 <?php
 /**
- * Invoice Ninja (https://invoiceninja.com).
+ * Africa Novatech (https://africanovatech.com).
  *
- * @link https://github.com/invoiceninja/invoiceninja source repository
+ * @link https://africanovatech.com source repository
  *
- * @copyright Copyright (c) 2023. Invoice Ninja LLC (https://invoiceninja.com)
+ * @copyright Copyright (c) 2023. Invoice Novatech LLC (https://africanovatech.com)
  *
  * @license https://www.elastic.co/licensing/elastic-license
  */
@@ -74,7 +74,7 @@ class StripeConnectFailed extends Mailable
     private function textBody()
     {
         return "
-        We note you are yet to connect your Stripe account to Invoice . Please log in to Invoice Ninja and connect your Stripe account.\n\n
+        We note you are yet to connect your Stripe account to Invoice . Please log in to Africa Novatech and connect your Stripe account.\n\n
         Once logged in you can use the following resource to connect your Stripe account: \n\n
         ";
     }
@@ -82,7 +82,7 @@ class StripeConnectFailed extends Mailable
     private function htmlBody()
     {
         return "
-        We note you are yet to connect your Stripe account to Invoice . Please log in to Invoice Ninja and connect your Stripe account.<br><br>
+        We note you are yet to connect your Stripe account to Invoice . Please log in to Africa Novatech and connect your Stripe account.<br><br>
 
         Once logged in you can use the following resource to connect your Stripe account: <br><br>
 

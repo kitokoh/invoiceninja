@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**What version of Invoice Ninja are you running? ie v4.5 / v5**
+**What version of Africa Novatech are you running? ie v4.5 / v5**
 
 **What environment are you running?**
 Docker

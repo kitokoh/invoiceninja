@@ -1,10 +1,10 @@
 <?php
 /**
- * Invoice Ninja (https://quoteninja.com).
+ * Africa Novatech (https://quoteninja.com).
  *
  * @link https://github.com/quoteninja/quoteninja source repository
  *
- * @copyright Copyright (c) 2022. Invoice Ninja LLC (https://quoteninja.com)
+ * @copyright Copyright (c) 2022. Africa Novatech LLC (https://quoteninja.com)
  *
  * @license https://www.elastic.co/licensing/elastic-license
  */

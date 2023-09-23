@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Invoice Ninja (https://invoiceninja.com).
+ * Africa Novatech (https://africanovatech.com).
  *
- * @link https://github.com/invoiceninja/invoiceninja source repository
+ * @link https://africanovatech.com source repository
  *
- * @copyright Copyright (c) 2023. Invoice Ninja LLC (https://invoiceninja.com)
+ * @copyright Copyright (c) 2023. Invoice Novatech LLC (https://africanovatech.com)
  *
  * @license https://www.elastic.co/licensing/elastic-license
  */
@@ -113,7 +113,7 @@ class AuthorizeCreateCustomer
         return $response;
     }
 
-    // This is how we can harvest client profiles and attach them within Invoice Ninja
+    // This is how we can harvest client profiles and attach them within Africa Novatech
 // $request = new net\authorize\api\contract\v1\GetCustomerProfileRequest();
 // $request->setMerchantAuthentication($driver->merchant_authentication);
 // $request->setCustomerProfileId($gateway_customer_reference);

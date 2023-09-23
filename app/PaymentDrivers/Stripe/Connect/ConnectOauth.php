@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Invoice Ninja (https://invoiceninja.com).
+ * Africa Novatech (https://africanovatech.com).
  *
- * @link https://github.com/invoiceninja/invoiceninja source repository
+ * @link https://africanovatech.com source repository
  *
- * @copyright Copyright (c) 2023. Invoice Ninja LLC (https://invoiceninja.com)
+ * @copyright Copyright (c) 2023. Invoice Novatech LLC (https://africanovatech.com)
  *
  * @license https://www.elastic.co/licensing/elastic-license
  */
@@ -43,7 +43,7 @@ class ConnectOauth
     }
 
     /**
-     * Revokes access to Stripe from Invoice Ninja
+     * Revokes access to Stripe from Africa Novatech
      * for the given account id
      */
     public function revoke($account_id)

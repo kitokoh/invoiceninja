@@ -1,10 +1,10 @@
 <?php
 /**
- * Invoice Ninja (https://purchase_orderninja.com).
+ * Africa Novatech (https://purchase_orderninja.com).
  *
  * @link https://github.com/purchase_orderninja/purchase_orderninja source repository
  *
- * @copyright Copyright (c) 2022. Invoice Ninja LLC (https://purchase_orderninja.com)
+ * @copyright Copyright (c) 2022. Africa Novatech LLC (https://purchase_orderninja.com)
  *
  * @license https://www.elastic.co/licensing/elastic-license
  */

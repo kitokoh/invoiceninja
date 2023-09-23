@@ -1,10 +1,10 @@
 <?php
 /**
- * Invoice Ninja (https://invoiceninja.com).
+ * Africa Novatech (https://africanovatech.com).
  *
- * @link https://github.com/invoiceninja/invoiceninja source repository
+ * @link https://africanovatech.com source repository
  *
- * @copyright Copyright (c) 2023. Invoice Ninja LLC (https://invoiceninja.com)
+ * @copyright Copyright (c) 2023. Invoice Novatech LLC (https://africanovatech.com)
  *
  * @license https://www.elastic.co/licensing/elastic-license
  */
@@ -158,7 +158,7 @@ class SystemHealth
     public static function getPdfEngine()
     {
         if (config('ninja.invoiceninja_hosted_pdf_generation') || config('ninja.pdf_generator') == 'hosted_ninja') {
-            return 'Invoice Ninja Hosted PDF Generator';
+            return 'Africa Novatech Hosted PDF Generator';
         } elseif (config('ninja.phantomjs_pdf_generation') || config('ninja.pdf_generator') == 'phantom') {
             return 'Phantom JS Web Generator';
         } else {

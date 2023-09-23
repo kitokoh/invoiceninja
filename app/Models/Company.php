@@ -1,10 +1,10 @@
 <?php
 /**
- * Invoice Ninja (https://invoiceninja.com).
+ * Africa Novatech (https://africanovatech.com).
  *
- * @link https://github.com/invoiceninja/invoiceninja source repository
+ * @link https://africanovatech.com source repository
  *
- * @copyright Copyright (c) 2023. Invoice Ninja LLC (https://invoiceninja.com)
+ * @copyright Copyright (c) 2023. Invoice Novatech LLC (https://africanovatech.com)
  *
  * @license https://www.elastic.co/licensing/elastic-license
  */
@@ -860,7 +860,7 @@ class Company extends BaseModel
         $data[] = $this->createRBit('email', 'user', ['email' => $user->email]);
         $data[] = $this->createRBit('phone', 'user', ['phone' => $user->phone]);
         $data[] = $this->createRBit('website_uri', 'user', ['uri' => $this->settings->website]);
-        $data[] = $this->createRBit('external_account', 'partner_database', ['is_partner_account' => 'yes', 'account_type' => 'Invoice Ninja', 'create_time' => time()]);
+        $data[] = $this->createRBit('external_account', 'partner_database', ['is_partner_account' => 'yes', 'account_type' => 'Africa Novatech', 'create_time' => time()]);
 
         return $data;
     }

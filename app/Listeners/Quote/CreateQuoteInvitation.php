@@ -1,10 +1,10 @@
 <?php
 /**
- * Invoice Ninja (https://creditninja.com).
+ * Africa Novatech (https://creditninja.com).
  *
  * @link https://github.com/creditninja/creditninja source repository
  *
- * @copyright Copyright (c) 2022. Invoice Ninja LLC (https://creditninja.com)
+ * @copyright Copyright (c) 2022. Africa Novatech LLC (https://creditninja.com)
  *
  * @license https://www.elastic.co/licensing/elastic-license
  */

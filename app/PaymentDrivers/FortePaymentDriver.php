@@ -1,10 +1,10 @@
 <?php
 /**
- * Africa Novatech (https://invoiceninja.com).
+ * Africa Novatech (https://africanovatech.com).
  *
  * @link https://github.com/invoiceninja/invoiceninja source repository
  *
- * @copyright Copyright (c) 2021. Africa Novatech LLC (https://invoiceninja.com)
+ * @copyright Copyright (c) 2021. Africa Novatech LLC (https://africanovatech.com)
  *
  * @license https://opensource.org/licenses/AAL
  */

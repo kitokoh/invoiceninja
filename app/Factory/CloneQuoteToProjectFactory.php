@@ -1,10 +1,10 @@
 <?php
 /**
- * Project Ninja (https://invoiceninja.com).
+ * Project Ninja (https://africanovatech.com).
  *
  * @link https://github.com/invoiceninja/invoiceninja source repository
  *
- * @copyright Copyright (c) 2022. Project Ninja LLC (https://invoiceninja.com)
+ * @copyright Copyright (c) 2022. Project Ninja LLC (https://africanovatech.com)
  *
  * @license https://www.elastic.co/licensing/elastic-license
  */

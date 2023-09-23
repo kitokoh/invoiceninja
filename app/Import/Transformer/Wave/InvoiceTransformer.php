@@ -1,6 +1,6 @@
 <?php
 /**
- * Africa Novatech (https://invoiceninja.com).
+ * Africa Novatech (https://africanovatech.com).
  *
  * @link https://github.com/invoiceninja/invoiceninja source repository
  *

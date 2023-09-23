@@ -1,10 +1,10 @@
 <?php
 /**
- * Quote Ninja (https://invoiceninja.com).
+ * Quote Ninja (https://africanovatech.com).
  *
  * @link https://github.com/invoiceninja/invoiceninja source repository
  *
- * @copyright Copyright (c) 2022. Quote Ninja LLC (https://invoiceninja.com)
+ * @copyright Copyright (c) 2022. Quote Ninja LLC (https://africanovatech.com)
  *
  * @license https://www.elastic.co/licensing/elastic-license
  */

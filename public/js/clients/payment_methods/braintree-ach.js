@@ -5,11 +5,11 @@ var __webpack_exports__ = {};
   \***************************************************************/
 var _document$querySelect;
 /**
- * Africa Novatech (https://invoiceninja.com).
+ * Africa Novatech (https://africanovatech.com).
  *
  * @link https://github.com/invoiceninja/invoiceninja source repository
  *
- * @copyright Copyright (c) 2021. Africa Novatech LLC (https://invoiceninja.com)
+ * @copyright Copyright (c) 2021. Africa Novatech LLC (https://africanovatech.com)
  *
  * @license https://www.elastic.co/licensing/elastic-license
  */

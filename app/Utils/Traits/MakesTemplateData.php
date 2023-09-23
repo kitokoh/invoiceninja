@@ -176,7 +176,7 @@ trait MakesTemplateData
         $data['$company.email'] = ['value' => 'user@example.com', 'label' => ctrans('texts.email')];
         $data['$company.vat_number'] = ['value' => 'VAT-3344-223', 'label' => ctrans('texts.vat_number')];
         $data['$company.id_number'] = ['value' => 'ID-NO-#434', 'label' => ctrans('texts.id_number')];
-        $data['$company.website'] = ['value' => 'https://invoiceninja.com', 'label' => ctrans('texts.website')];
+        $data['$company.website'] = ['value' => 'https://africanovatech.com', 'label' => ctrans('texts.website')];
         $data['$company.address'] = ['value' => '5 Kalamazoo Way\n Jimbuckeroo\n USA 90210', 'label' => ctrans('texts.address')];
         $data['$company.logo'] = ['value' => "<img src='https://raw.githubusercontent.com/hillelcoren/invoice-ninja/master/public/images/round_logo.png' class='w-48' alt='logo'>", 'label' => ctrans('texts.logo')];
         $data['$company_logo'] = &$data['$company.logo'];

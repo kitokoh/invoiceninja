@@ -1,10 +1,10 @@
 <?php
 /**
- * PurchaseOrder Ninja (https://invoiceninja.com).
+ * PurchaseOrder Ninja (https://africanovatech.com).
  *
  * @link https://github.com/invoiceninja/invoiceninja source repository
  *
- * @copyright Copyright (c) 2023. PurchaseOrder Ninja LLC (https://invoiceninja.com)
+ * @copyright Copyright (c) 2023. PurchaseOrder Ninja LLC (https://africanovatech.com)
  *
  * @license https://www.elastic.co/licensing/elastic-license
  */

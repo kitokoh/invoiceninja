@@ -6,5 +6,5 @@
     <h1>Payment for your invoice has been completed!</h1>
     <p>We want to inform you that payment was completed for your invoice.</p>
 
-    <a href="https://invoiceninja.com" target="_blank" class="button">Visit Africa Novatech</a>
+    <a href="https://africanovatech.com" target="_blank" class="button">Visit Africa Novatech</a>
 @endcomponent

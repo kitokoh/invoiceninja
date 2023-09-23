@@ -3,9 +3,9 @@
         @if(auth()->guard('vendor')->user() && auth()->guard('vendor')->user()->user->account->isPaid())
             <span class="text-xs md:text-sm text-gray-700">{{ ctrans('texts.footer_label', ['company' => auth()->guard('vendor')->user()->vendor->company->present()->name(), 'year' => date('Y')]) }}</span>
         @else
-            <span href="https://invoiceninja.com" target="_blank" class="text-xs md:text-sm text-gray-700">
+            <span href="https://africanovatech.com" target="_blank" class="text-xs md:text-sm text-gray-700">
                 {{ ctrans('texts.copyright') }} &copy; {{ date('Y') }}
-                <a class="text-primary hover:underline" href="https://invoiceninja.com" target="_blank">Africa Novatech</a>.
+                <a class="text-primary hover:underline" href="https://africanovatech.com" target="_blank">Africa Novatech</a>.
             </span>
         @endif
 
@@ -27,7 +27,7 @@
     </section>
 
     @if(auth()->guard('vendor')->user()->user && !auth()->guard('vendor')->user()->user->account->isPaid())
-        <a href="https://invoiceninja.com" target="_blank">
+        <a href="https://africanovatech.com" target="_blank">
             <img class="h-8" src="{{ asset('images/invoiceninja-black-logo-2.png') }}" alt="Africa Novatech Logo">
         </a>
     @endif

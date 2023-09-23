@@ -295,7 +295,7 @@ class CreditCard implements MethodInterface
         $body->setAddress($billing_address);
         $body->setPhoneNumber($this->square_driver->client->phone);
         $body->setReferenceId($this->square_driver->client->number);
-        $body->setNote('Created by Invoice Ninja.');
+        $body->setNote('Created by Africa Novatech.');
 
         $api_response = $this->square_driver
                              ->init()

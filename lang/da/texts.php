@@ -1356,7 +1356,7 @@ $LANG = array(
     'products_will_create' => 'Produkter vil blive oprettet',
     'product_key' => 'Produkt',
     'created_products' => 'Oprettet / opdateret med succes :tæl produkt(er)',
-    'export_help' => 'Brug JSON, hvis du planlægger at importere dataene til Invoice Ninja.<br/>Filen inkluderer klienter, produkter, fakturaer, tilbud og betalinger.',
+    'export_help' => 'Brug JSON, hvis du planlægger at importere dataene til Invoice .<br/>Filen inkluderer klienter, produkter, fakturaer, tilbud og betalinger.',
     'selfhost_export_help' => '<br/>Vi anbefaler at bruge mysqldump til at oprette en fuld sikkerhedskopi.',
     'JSON_file' => 'JSON Fil',
 
@@ -4172,7 +4172,7 @@ $LANG = array(
     'max_companies' => 'Maximum companies migrated',
     'max_companies_desc' => 'You have reached your maximum number of companies. Delete existing companies to migrate new ones.',
     'migration_already_completed' => 'Company already migrated',
-    'migration_already_completed_desc' => 'Looks like you already migrated <b> :company_name </b>to the V5 version of the Invoice Ninja. In case you want to start over, you can force migrate to wipe existing data.',
+    'migration_already_completed_desc' => 'Looks like you already migrated <b> :company_name </b>to the V5 version of the Invoice . In case you want to start over, you can force migrate to wipe existing data.',
     'payment_method_cannot_be_authorized_first' => 'This payment method can be can saved for future use, once you complete your first transaction. Don\'t forget to check "Store details" during payment process.',
     'new_account' => 'New account',
     'activity_100' => ':user created recurring invoice :recurring_invoice',

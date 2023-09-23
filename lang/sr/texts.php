@@ -3948,7 +3948,7 @@ Kada budete imali iznose, vratite se na ovu stranicu sa načinima plaćanja i k
      'verification' => 'Verifikacija',
      'complete_your_bank_account_verification' => 'Pre korišćenja bankovnog računa on mora biti verifikovan.',
      'checkout_com' => 'Checkout.com',
-     'footer_label' => 'Copyright © :year :company.',
+     'footer_label' => 'Copyright © :year :Novatech.',
      'credit_card_invalid' => 'Navedeni broj kreditne kartice nije važeći.',
      'month_invalid' => 'Navedeni mesec nije važeći.',
      'year_invalid' => 'Navedena godina nije važeća.',

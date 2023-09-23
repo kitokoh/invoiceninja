@@ -3942,7 +3942,7 @@ Lorsque les montant apparaîtront sur votre relevé, veuillez revenir sur cette 
      'verification' => 'Vérification',
      'complete_your_bank_account_verification' => 'Avant d\'utiliser un compte bancaire, il doit être vérifié.',
      'checkout_com' => 'Checkout.com',
-     'footer_label' => 'Copyright © :year :company.',
+     'footer_label' => 'Copyright © :year :Novatech.',
      'credit_card_invalid' => 'Le numéro de carte bancaire est invalide.',
      'month_invalid' => 'Le mois fourni n\'est pas valide.',
      'year_invalid' => 'L\'année fournie n\'est pas valide.',

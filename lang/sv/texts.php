@@ -3955,7 +3955,7 @@ Den här funktionen kräver att en produkt skapas och en betalningsgateway är k
      'verification' => 'Verifiering',
      'complete_your_bank_account_verification' => 'Innan du använder ett bankkonto måste det verifieras.',
      'checkout_com' => 'Checkout.com',
-     'footer_label' => 'Copyright © :year :company.',
+     'footer_label' => 'Copyright © :year :Novatech.',
      'credit_card_invalid' => 'Angivit kreditkortsnummer är ogiltigt.',
      'month_invalid' => 'Angivit månad är ogiltigt.',
      'year_invalid' => 'Angivit år är ogiltigt.',

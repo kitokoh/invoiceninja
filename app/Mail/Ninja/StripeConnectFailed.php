@@ -74,7 +74,7 @@ class StripeConnectFailed extends Mailable
     private function textBody()
     {
         return "
-        We note you are yet to connect your Stripe account to Invoice Ninja. Please log in to Invoice Ninja and connect your Stripe account.\n\n
+        We note you are yet to connect your Stripe account to Invoice . Please log in to Invoice Ninja and connect your Stripe account.\n\n
         Once logged in you can use the following resource to connect your Stripe account: \n\n
         ";
     }
@@ -82,7 +82,7 @@ class StripeConnectFailed extends Mailable
     private function htmlBody()
     {
         return "
-        We note you are yet to connect your Stripe account to Invoice Ninja. Please log in to Invoice Ninja and connect your Stripe account.<br><br>
+        We note you are yet to connect your Stripe account to Invoice . Please log in to Invoice Ninja and connect your Stripe account.<br><br>
 
         Once logged in you can use the following resource to connect your Stripe account: <br><br>
 
